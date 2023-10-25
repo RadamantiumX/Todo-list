@@ -1,0 +1,4 @@
+html {
+    /* Invertimos los colores */
+    filter: invert(1);
+}
